@@ -1,0 +1,8 @@
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\bin\Debug\Zadacha ot Slavka.exe.config
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\bin\Debug\Zadacha ot Slavka.exe
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\bin\Debug\Zadacha ot Slavka.pdb
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\obj\Debug\Zadacha ot Slavka.csproj.AssemblyReference.cache
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\obj\Debug\Zadacha ot Slavka.csproj.SuggestedBindingRedirects.cache
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\obj\Debug\Zadacha ot Slavka.csproj.CoreCompileInputs.cache
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\obj\Debug\Zadacha ot Slavka.exe
+D:\IT 11g\Zadacha ot Slavka\Zadacha ot Slavka\obj\Debug\Zadacha ot Slavka.pdb
